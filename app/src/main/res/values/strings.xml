@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestKotlinProject</string>
+    <string name="not_add_empty_text">Нельзя добавить пустое значение</string>
+    <string name="text_upper">Введите в поле выше</string>
+    <string name="not_remove_empty_text">Нельзя удалить пустое значение</string>
+    <string name="text_under">Введите в поле ниже</string>
+    <string name="element_not_found">Элемент не найден</string>
+    <string name="element_has_added">Этот элемент уже добавлен</string>
+    <string name="text_add_text">Введите текст для добавления</string>
+    <string name="text_remove_text">Введите текст для удаления</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+</resources>
